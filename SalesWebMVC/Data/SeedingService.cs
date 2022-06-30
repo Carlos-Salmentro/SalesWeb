@@ -1,5 +1,4 @@
 ﻿using System;
-using SalesWebMVC.Model;
 using SalesWebMVC.Models;
 using SalesWebMVC.Models.Enuns;
 using System.Linq;
