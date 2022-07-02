@@ -12,6 +12,7 @@ namespace SalesWebMVC.Models
         public DateTime BirthDate { get; set; }
         public double BaseSalary { get; set; }
         public Departament Departament { get; set; }
+        public int DepartamentId { get; set; }
         ICollection<SalesRecord> Salles = new List<SalesRecord>();
 
         public Seller()
